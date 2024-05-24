@@ -41,7 +41,8 @@ plt.plot(X,Y_pred,color="red")
 plt.show()
 ```
 ## Output
-![Screenshot 2024-05-24 201951](https://github.com/MohanKumar755/Univariate-Linear-Regress-exp-9ion/assets/146155007/38a5b825-f68f-4b3f-8d68-1edde6f304bb)
+![Screenshot 2024-05-24 211554](https://github.com/MohanKumar755/Univariate-Linear-Regress-exp-9ion/assets/146155007/61930014-a38b-4f0b-8939-d3ada69a5a3b)
+
 ![Screenshot 2024-05-24 202311](https://github.com/MohanKumar755/Univariate-Linear-Regress-exp-9ion/assets/146155007/78262625-eefa-46ef-98b0-fe6d38939cb3)
 
 
